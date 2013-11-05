@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = ">= 1.3.6"
   s.rubyforge_project         = "money"
 
-  s.add_dependency "i18n", "~> 0.4"
+  s.add_dependency "i18n", "~> 0.5"
 
   s.add_development_dependency "rspec", ">= 2.0.0"
   s.add_development_dependency "yard"
